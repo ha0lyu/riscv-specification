@@ -1,0 +1,4 @@
+interface:
+  display_name: "RISC-V 手册"
+  short_description: "读取本地 RISC-V 手册并在当前目录产出结果"
+  default_prompt: "使用 $riscv-spec 从 $SPEC_SKILL_ROOT/markdown 读取相关 RISC-V 手册，并将结果写入当前工作目录。"
